@@ -1,5 +1,7 @@
 # ML-Project-2: Road Segmentation 
 
+*In case this project was helpful to you, leaving a star is very appreciated. Thanks*
+
 #### Final results
 * AIcrowd [Leaderboard](https://www.aicrowd.com/challenges/epfl-ml-road-segmentation/leaderboards) 7 / 82 (Team name: OpTeamML)
 * F1 score: 0.907 (teams before us had 0.908, 0.909, 0.914)
