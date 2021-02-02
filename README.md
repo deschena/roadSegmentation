@@ -3,19 +3,10 @@
 
 *In case this repo was helpful to you, leaving a star is much appreciated. Thanks.*
 
-#### Final results
+#### Final results (computed on unseed data, on submission server)
 * F1 score: 0.907
 * Accuracy: 0.950
 
-***Authors***
-
-• Guillaume Barre
-
-• Guillaume Follonier
-
-• Justin Deschenaux
-
-___
 
 #### Requirements
 
