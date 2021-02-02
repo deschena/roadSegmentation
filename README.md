@@ -1,6 +1,7 @@
 # ML-Project-2: Road Segmentation 
-*This project was realized during the Machine Learning class at EPFL (CS-433). The goal was to perform semantic segmentation on aerial images to classify road and background pixels*
-*In case this repo was helpful to you, leaving a star is much appreciated. Thanks*
+*This project was realized during the Machine Learning class at EPFL (CS-433). The goal was to perform semantic segmentation on aerial images to classify road and background pixels.
+*
+*In case this repo was helpful to you, leaving a star is much appreciated. Thanks.*
 
 #### Final results
 * F1 score: 0.907
